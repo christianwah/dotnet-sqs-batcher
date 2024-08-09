@@ -1,0 +1,8 @@
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.csproj.AssemblyReference.cache
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.AssemblyInfoInputs.cache
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.AssemblyInfo.cs
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.csproj.CoreCompileInputs.cache
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.MvcApplicationPartsAssemblyInfo.cs
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.MvcApplicationPartsAssemblyInfo.cache
+/Users/yunus/Workspace/project/dotnet-sqs-batcher/obj/Debug/net8.0/dotnet-sqs-batcher.sourcelink.json

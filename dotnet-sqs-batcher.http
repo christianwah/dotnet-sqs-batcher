@@ -1,0 +1,6 @@
+@dotnet_sqs_batcher_HostAddress = http://localhost:5184
+
+GET {{dotnet_sqs_batcher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
